@@ -272,7 +272,7 @@ function create_config( )
     "warn"
   },
 
-    sudo_users = {98120772,152065669,61690296,0,tonumber(our_id)},--Sudo users
+    sudo_users = {142217892,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[🌐 Nort AntiSpam Bot for Telegram SuperGroups.
 Based on LUA. 🌐
@@ -283,24 +283,23 @@ Based on LUA. 🌐
 🔴 Powerfull
 
 🔵Sudoes:
-🔵 @Nort_Admin
-🔵 @WebShark25
+🔵 @Nmoarmo
 
 ⚫️ Contact US (If You are report):
 ⚫️ @WebShark25_Bot
 ⚫️ @Nort_Admin_Bot
 
 ⚪️ Website :
-Www.AntiSpam.nort.ir
+Www.sabatemplate.ir
 
 ⚪️ To Buy a group, Please Contact the Sudoes.
 
 ⚪️ Git Hub: 
-Http://github.com/nort-ir
+Http://github.com/mr-mam
 
 ⚪️ Join the Official Support group by typing:
 /support
->>>>>>> caa52453e138b7d766c15f30093b89bfe477e719
+>>>>>>> moarmo
 ]],
     help_text_realm = [[ Realm Help Text ]],
     help_text = [[
